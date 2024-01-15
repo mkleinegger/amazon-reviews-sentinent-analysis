@@ -12,6 +12,8 @@ pandas = "^2.1.4"
 pyspark = {extras = ["connect"], version = "^3.5.0"}
 seaborn = "^0.13.1"
 ipykernel = "^6.28.0"
+nltk = "^3.8.1"
+vadersentiment = "^3.3.2"
 
 
 [tool.poetry.group.dev.dependencies]
