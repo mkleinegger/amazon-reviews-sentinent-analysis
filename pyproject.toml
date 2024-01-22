@@ -14,6 +14,8 @@ seaborn = "^0.13.1"
 ipykernel = "^6.28.0"
 nltk = "^3.8.1"
 vadersentiment = "^3.3.2"
+scipy = "^1.12.0"
+textblob = "^0.17.1"
 
 
 [tool.poetry.group.dev.dependencies]
