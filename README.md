@@ -1,6 +1,6 @@
 # Amazon Reviews Analysis
 
-This repository contains code and resources for analyzing Amazon reviews.
+This repository contains code and resources for analyzing Amazon reviews. A report can be found under https://mkleinegger.github.io/amazon-reviews-sentinent-analysis/report.pdf.
 
 ## Introduction
 
